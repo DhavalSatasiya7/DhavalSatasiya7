@@ -3,119 +3,68 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dhaval Satasiya | Full Stack Developer</title>
+    <title>Dhaval Satasiya Profile</title>
+
     <style>
-        :root {
-            --bg-color: #ffffff;
-            --text-color: #2c3e50;
-            --card-bg: #f4f4f4;
-            --accent-color: #3498db;
-            --secondary-text: #555;
-        }
-
-        [data-theme="dark"] {
-            --bg-color: #1a1a1a;
-            --text-color: #ecf0f1;
-            --card-bg: #2d2d2d;
-            --accent-color: #5dade2;
-            --secondary-text: #bdc3c7;
-        }
-
         body {
-            font-family: 'Segoe UI', Arial, sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            transition: all 0.3s ease;
+            font-family: Arial, sans-serif;
             margin: 0;
-            padding: 20px;
+            background-color: #ecf0f1;
         }
 
         .container {
-            max-width: 800px;
-            margin: 0 auto;
             text-align: center;
+            padding: 20px;
         }
 
-        .header {
-            margin-bottom: 40px;
-        }
-
-        .theme-toggle {
-            cursor: pointer;
-            padding: 10px 20px;
-            border-radius: 20px;
-            border: none;
-            background: var(--accent-color);
-            color: white;
-            font-weight: bold;
-            margin-bottom: 20px;
+        h1 {
+            color: #2c3e50;
         }
 
         .card {
-            background-color: var(--card-bg);
-            padding: 25px;
-            margin: 20px auto;
-            border-radius: 15px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            text-align: left;
-            transition: transform 0.2s;
-        }
-
-        .card:hover {
-            transform: translateY(-5px);
-        }
-
-        h1, h2 { color: var(--accent-color); }
-        
-        p { line-height: 1.6; color: var(--secondary-text); }
-
-        .skills {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            margin-top: 10px;
+            background-color: #ffffff;
+            padding: 15px;
+            margin: 15px auto;
+            border-radius: 10px;
+            width: 80%;
+            max-width: 600px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
         }
 
         .skills span {
-            background-color: var(--accent-color);
+            background-color: #3498db;
             color: white;
-            padding: 8px 15px;
-            border-radius: 25px;
-            font-size: 0.9em;
-            font-weight: bold;
-        }
-
-        .contact-btn {
-            display: inline-block;
-            margin-top: 15px;
-            padding: 10px 25px;
-            background-color: var(--accent-color);
-            color: white;
-            text-decoration: none;
+            padding: 6px 12px;
+            margin: 5px;
             border-radius: 5px;
-            font-weight: bold;
+            display: inline-block;
+            font-size: 14px;
         }
 
-        @media (max-width: 600px) {
-            .card { width: 95%; padding: 15px; }
+        h2 {
+            color: #34495e;
+        }
+
+        p {
+            margin: 8px 0;
         }
     </style>
 </head>
+
 <body>
 
 <div class="container">
-    <button class="theme-toggle" onclick="toggleTheme()">🌓 Switch Theme</button>
-    
-    <div class="header">
-        <h1>👋 Hi, I'm Dhaval Satasiya</h1>
-        <p><b>💻 IT Student | 🚀 Future Full Stack Developer</b></p>
-    </div>
+
+    <h1>👋 Hi, I'm Dhaval Satasiya</h1>
+
+    <p><b>💻 IT Student | 🚀 Future Full Stack Developer</b></p>
 
     <div class="card">
         <h2>👨‍💻 About Me</h2>
-        <p>🎓 IT Student passionate about Web Development.</p>
-        <p>🏫 Learning at <b>Red & White Skill Education</b>.</p>
-        <p>🎯 <b>Goal:</b> To become a Professional Full Stack Developer.</p>
+        <p>🎓 IT Student passionate about Web Development</p>
+        <p>🏫 Learning Full Stack Development at Red & White Skill Education</p>
+        <p>🌱 Currently learning Advanced Web Technologies</p>
+        <p>🎯 Goal: Become a Professional Full Stack Developer</p>
     </div>
 
     <div class="card">
@@ -130,31 +79,25 @@
     </div>
 
     <div class="card">
+        <h2>📚 Currently Learning</h2>
+        <p>📌 Advanced JavaScript</p>
+        <p>📌 Backend Development</p>
+        <p>📌 Database Integration</p>
+    </div>
+
+    <div class="card">
         <h2>🚀 Projects</h2>
-        <p><b>🛺 Taxi Booking System</b> (Ongoing)</p>
-        <p>Practicing database integration and advanced JavaScript logic.</p>
+        <p>🛺 Taxi Booking System (Ongoing Project)</p>
     </div>
 
     <div class="card">
         <h2>📫 Contact</h2>
-        <p>Ready to collaborate or chat about tech!</p>
-        <a href="mailto:dhavalsatasiya7@gmail.com" class="contact-btn">Email Me</a>
+        <p>Email: dhavalsatasiya7@gmail.com</p>
     </div>
 
-    <p style="margin-top: 40px; opacity: 0.7;">⭐ Thanks for visiting my profile!</p>
-</div>
+    <h3>⭐ Thanks for visiting my profile!</h3>
 
-<script>
-    function toggleTheme() {
-        const body = document.body;
-        const currentTheme = body.getAttribute('data-theme');
-        if (currentTheme === 'dark') {
-            body.removeAttribute('data-theme');
-        } else {
-            body.setAttribute('data-theme', 'dark');
-        }
-    }
-</script>
+</div>
 
 </body>
 </html>
