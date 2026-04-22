@@ -1,6 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
+
+
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -27,7 +27,6 @@
             display: inline-block;
         }
     </style>
-</head>
 <body>
 
 <div class="container">
