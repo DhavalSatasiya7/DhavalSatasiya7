@@ -1,4 +1,4 @@
-<div align="center">
+<div align="righr">
 
 <h1>👋 Hi, I'm Dhaval Satasiya</h1>
 
