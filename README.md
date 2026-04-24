@@ -1,6 +1,6 @@
 <div align="righr">
 
-<h1>👋 Hi, I'm Dhaval Satasiya</h1>
+<h1 align="center" >👋 Hi, I'm Dhaval Satasiya</h1>
 
 <p><b>💻 IT Student | 🚀 Future Full Stack Developer</b></p>
 
