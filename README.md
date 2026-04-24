@@ -1,8 +1,8 @@
 <div align="righr">
 
-<h1 align="center">👋 Hi, I'm Dhaval Satasiya</h1>
+<h1 align="center"> Hi, I'm Dhaval Satasiya</h1>
 
-<p align="center" ><b>💻 IT Student | 🚀 Future Full Stack Developer</b></p>
+<p><b>💻 IT Student | 🚀 Future Full Stack Developer</b></p>
 
 <div style="background:#f4f4f4; padding:15px; margin:10px auto; border-radius:10px; max-width:600px;">
     <h2>👨‍💻 About Me</h2>
