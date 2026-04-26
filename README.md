@@ -50,7 +50,7 @@
 
 ## 📊 GitHub Stats
 
-![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![dhavalsatasiya7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhavalsatasiya7&theme=vue-dark&hide_border=true)
 
 ---
 
