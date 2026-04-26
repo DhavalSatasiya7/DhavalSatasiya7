@@ -1,45 +1,77 @@
-<div align="righr">
+# 👋 Hi, I'm Dhaval Satasiya
 
-<h1 align="center"> Hi, I'm Dhaval Satasiya</h1>
+💻 Passionate Web Developer | 🚀 Learning Full Stack Development  
+🎯 Focused on building real-world projects and improving coding skills  
 
-<p><b>💻 IT Student | 🚀 Future Full Stack Developer</b></p>
+---
 
-<div style="background:#f4f4f4; padding:15px; margin:10px auto; border-radius:10px; max-width:600px;">
-    <h2>👨‍💻 About Me</h2>
-    <p>🎓 IT Student passionate about Web Development</p>
-    <p>🏫 Learning Full Stack Development at Red & White Skill Education</p>
-    <p>🌱 Currently learning Advanced Web Technologies</p>
-    <p>🎯 Goal: Become a Professional Full Stack Developer</p>
-</div>
+## 🧑‍💻 About Me
 
-<div style="background:#f4f4f4; padding:15px; margin:10px auto; border-radius:10px; max-width:600px;">
-    <h2>🛠️ Skills</h2>
-    <p>
-        <span style="background:#3498db; color:white; padding:5px 10px; border-radius:5px;">HTML5</span>
-        <span style="background:#3498db; color:white; padding:5px 10px; border-radius:5px;">CSS3</span>
-        <span style="background:#3498db; color:white; padding:5px 10px; border-radius:5px;">JavaScript</span>
-        <span style="background:#3498db; color:white; padding:5px 10px; border-radius:5px;">PHP</span>
-        <span style="background:#3498db; color:white; padding:5px 10px; border-radius:5px;">MySQL</span>
-    </p>
-</div>
+- 🎓 Student & Developer from India  
+- 💡 Interested in Web Development and Database Systems  
+- 🔭 Currently working on **Taxi Booking System (PHP & MySQL)**  
+- 🌱 Learning **Advanced Backend & APIs**  
+- 🎯 Goal: Become a Professional Full Stack Developer  
 
-<div style="background:#f4f4f4; padding:15px; margin:10px auto; border-radius:10px; max-width:600px;">
-    <h2>📚 Currently Learning</h2>
-    <p>📌 Advanced JavaScript</p>
-    <p>📌 Backend Development</p>
-    <p>📌 Database Integration</p>
-</div>
+---
 
-<div style="background:#f4f4f4; padding:15px; margin:10px auto; border-radius:10px; max-width:600px;">
-    <h2>🚀 Projects</h2>
-    <p>🛺 Taxi Booking System (Ongoing Project)</p>
-</div>
+## 🛠️ Skills
 
-<div style="background:#f4f4f4; padding:15px; margin:10px auto; border-radius:10px; max-width:600px;">
-    <h2>📫 Contact</h2>
-    <p>Email: dhavalsatasiya7@gmail.com</p>
-</div>
+**Frontend:**
+- HTML5
+- CSS3
+- Bootstrap
+- Media Query (Responsive Design)
 
-<h3>⭐ Thanks for visiting my profile!</h3>
+**Backend:**
+- PHP
 
-</div>
+**Database:**
+- MySQL
+
+**Tools:**
+- Git & GitHub
+- XAMPP
+- VS Code
+
+---
+
+## 🚀 Projects
+
+### 🚖 Taxi Booking System
+- Developed a complete booking system using PHP & MySQL  
+- Features:
+  - User booking system  
+  - Driver & vehicle management  
+  - Database integration with foreign keys  
+- Tech Stack: HTML, CSS, Bootstrap, PHP, MySQL  
+
+---
+
+## 📊 GitHub Stats
+
+![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🐙 GitHub: https://github.com/your-username  
+
+---
+
+## ⚡ Fun Fact
+
+I love building projects that solve real-life problems 🚀
+
+---
+
+⭐ **Thanks for visiting my profile!**
