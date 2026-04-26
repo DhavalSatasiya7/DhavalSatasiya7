@@ -67,7 +67,7 @@
 
 ## 📫 Connect With Me
 
-* 📧 Email: <a href="mailto:dhavalsatasiya7@gmail.com">
+* 📧 Email: <a href="mailto:dhavalsatasiya7@gmail.com" target="_blank">
   dhavalsatasiya7@gmail.com
 </a>
 
