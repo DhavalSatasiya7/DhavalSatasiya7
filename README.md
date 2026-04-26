@@ -56,13 +56,13 @@
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)
+
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com  
+- 📧 Email: dhavalsatasiya7@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/your-profile  
 - 🐙 GitHub: https://github.com/your-username  
 
