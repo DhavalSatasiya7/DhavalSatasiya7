@@ -62,7 +62,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: dhavalsatasiya7@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/Dhaval Satasiya
+- 💼 LinkedIn: https://www.linkedin.com/in/DhavalSatasiya
 - 🐙 GitHub: https://github.com/DhavalSatasiya7  
 
 ---
