@@ -67,9 +67,9 @@
 
 ## 📫 Connect With Me
 
-* 📧 Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhavalsatasiya7@gmail.com">Send Email</a>
-* 💼 LinkedIn: <a href="https://www.linkedin.com/in/dhavalsatasiya07" target="_blank">View Profile</a>
-* 🐙 GitHub: <a href="https://github.com/DhavalSatasiya7" target="_blank">Visit GitHub</a>
+* 📧 Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhavalsatasiya7@gmail.com">dhavalsatasiya7@gmail.com</a>
+* 💼 LinkedIn: <a href="https://www.linkedin.com/in/dhavalsatasiya07" target="_blank">dhavalsatasiya07</a>
+* 🐙 GitHub: <a href="https://github.com/DhavalSatasiya7" target="_blank">DhavalSatasiya7</a>
 
 ---
 
