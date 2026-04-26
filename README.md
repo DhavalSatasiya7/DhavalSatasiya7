@@ -50,21 +50,20 @@
 
 ## 📊 GitHub Stats
 
-![dhavalsatasiya7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhavalsatasiya7&theme=vue-dark&hide_border=true)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=DhavalSatasiya7&show_icons=true&theme=radical" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=DhavalSatasiya7&theme=radical&hide_border=true" width="48%" />
 
-## 🔥 Streak Stats
-
-
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: dhavalsatasiya7@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🐙 GitHub: https://github.com/your-username  
+- 📧 Email: dhavalsatasiya7@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/dhaval-satasiya  
+- 🐙 GitHub: https://github.com/DhavalSatasiya7  
 
 ---
 
