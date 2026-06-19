@@ -2,9 +2,7 @@
 
 ### 🚀 Full Stack Developer | 🎓 BCA Student | 💻 Web Developer | 🇮🇳 India
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Developer;💻+PHP+%7C+MySQL+%7C+Bootstrap+Developer;🎓+BCA+Student;🌱+Learning+Modern+Web+Technologies;🇮🇳+Building+Projects+for+Real+World+Problems" />
-</p>
+
 
 
 
