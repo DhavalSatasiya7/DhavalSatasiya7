@@ -62,7 +62,6 @@
 
 | 💡 Project             | 📄 Description                                |
 | ---------------------- | --------------------------------------------- |
-| 🚖 Taxi Booking System | Online taxi booking system using PHP & MySQL  |
 | 🌐 Personal Portfolio  | Professional portfolio website with Bootstrap |
 | 🛒 E-Commerce Website  | Responsive shopping website UI                |
 | 👟 Online Shoes Store  | Modern e-commerce landing page                |
