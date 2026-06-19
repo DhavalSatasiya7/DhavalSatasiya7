@@ -94,24 +94,7 @@
 
 ---
 
-## 🎓 Education
 
-### Bachelor of Computer Applications (BCA)
-
-* 🎓 Completed: 2025
-* 📊 CGPA: 8.2
-
-### Higher Secondary (Commerce)
-
-* 📅 Completed: 2022
-* 📈 Percentage: 78%
-
-### Secondary School (SSC)
-
-* 📅 Completed: 2020
-* 📈 Percentage: 75%
-
----
 
 ## 🏆 Achievements
 
