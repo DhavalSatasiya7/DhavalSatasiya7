@@ -1,90 +1,163 @@
-# 👋 Hi, I'm Dhaval Satasiya
+# Hi 👋, I'm Dhaval Satasiya
 
-💻 Passionate Web Developer | 🚀 Learning Full Stack Development
-🎯 Focused on building real-world projects and improving coding skills
+### 🚀 Full Stack Developer | 🎓 BCA Student | 💻 Web Developer | 🇮🇳 India
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Developer;💻+PHP+%7C+MySQL+%7C+Bootstrap+Developer;🎓+BCA+Student;🌱+Learning+Modern+Web+Technologies;🇮🇳+Building+Projects+for+Real+World+Problems" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💼 About Me
 
-* 🎓 Student & Developer from India
-* 💡 Interested in Web Development and Database Systems
-* 🔭 Currently working on **Taxi Booking System (PHP & MySQL)**
-* 🌱 Learning **Advanced Backend & APIs**
+* 🎓 BCA Student
+* 💻 Passionate Full Stack Developer
+* 🌱 Currently Learning Advanced Backend Development & APIs
+* 🚖 Working On: Taxi Booking System (PHP & MySQL)
 * 🎯 Goal: Become a Professional Full Stack Developer
+* 🚀 Building Responsive and User-Friendly Web Applications
+* 🤝 Interested in Freelancing & Open Source Contributions
 
 ---
 
-## 🛠️ Skills
+## ⚡ What Makes Me Different
 
-**Frontend:**
-
-* HTML5
-* CSS3
-* Bootstrap
-* Media Query (Responsive Design)
-
-**Backend:**
-
-* PHP
-
-**Database:**
-
-* MySQL
-
-**Tools:**
-
-* Git & GitHub
-* XAMPP
-* VS Code
+* 🚀 Strong foundation in HTML, CSS, Bootstrap, PHP & MySQL
+* 🎯 Focused on real-world project development
+* 📚 Continuously learning new technologies
+* 💡 Problem Solver with creative UI designing skills
+* 🌐 Passionate about creating responsive websites
 
 ---
 
-## 🚀 Projects
+## 🌐 Connect With Me
 
-### 🚖 Taxi Booking System
+<p align="center">
+  <a href="mailto:dhavalsatasiya7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-* Developed a complete booking system using PHP & MySQL
-* Features:
+  <a href="https://github.com/DhavalSatasiya7">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
 
-  * User booking system
-  * Driver & vehicle management
-  * Database integration with foreign keys
-* Tech Stack: HTML, CSS, Bootstrap, PHP, MySQL
+  <a href="https://linkedin.com/in/dhavalsatasiya07">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DhavalSatasiya7&show_icons=true&theme=radical" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=DhavalSatasiya7&theme=radical&hide_border=true" width="48%" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql,git,github,vscode" />
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Featured Projects
 
-* 📧 Email: <a href="mailto:dhavalsatasiya7@gmail.com" target="_blank">
-  dhavalsatasiya7@gmail.com
-</a>
-
-* 💼 LinkedIn: <a href="https://www.linkedin.com/in/dhavalsatasiya07" target="_blank">
-  dhavalsatasiya07
-</a>
-
-* 🐙 GitHub: <a href="https://github.com/DhavalSatasiya7" target="_blank">
-  DhavalSatasiya7
-</a>
+| 💡 Project             | 📄 Description                                |
+| ---------------------- | --------------------------------------------- |
+| 🚖 Taxi Booking System | Online taxi booking system using PHP & MySQL  |
+| 🌐 Personal Portfolio  | Professional portfolio website with Bootstrap |
+| 🛒 E-Commerce Website  | Responsive shopping website UI                |
+| 👟 Online Shoes Store  | Modern e-commerce landing page                |
+| ☕ Coffee Shop Website  | Responsive coffee shop website design         |
 
 ---
 
-## ⚡ Fun Fact
+## 🧠 Currently Learning
 
-I love building projects that solve real-life problems 🚀
+* PHP Advanced Concepts
+* REST APIs
+* MySQL Database Optimization
+* Git & GitHub
+* Full Stack Development
+* Modern UI/UX Design
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhavalSatasiya7&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhavalSatasiya7&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhavalSatasiya7&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🎓 Education
+
+### Bachelor of Computer Applications (BCA)
+
+* 🎓 Completed: 2025
+* 📊 CGPA: 8.2
+
+### Higher Secondary (Commerce)
+
+* 📅 Completed: 2022
+* 📈 Percentage: 78%
+
+### Secondary School (SSC)
+
+* 📅 Completed: 2020
+* 📈 Percentage: 75%
+
+---
+
+## 🏆 Achievements
+
+* 🚀 Developed Multiple Web Projects
+* 💻 Strong Skills in Frontend & Backend Development
+* 🎓 Successfully Completed BCA
+* 🌱 Continuous Learner & Tech Enthusiast
+* 🏅 Built Real-World Academic Projects
+
+---
+
+## 💼 Open For Opportunities
+
+I’m available for:
+
+* 💻 Freelance Web Development
+* 🌐 Website Design & Development
+* 🤝 Collaboration on Open Source Projects
+* 🚀 Full Stack Development Projects
+
+📩 Email: **[dhavalsatasiya7@gmail.com](mailto:dhavalsatasiya7@gmail.com)**
+
+---
+
+## 💬 My Philosophy
+
+> "Keep Learning, Keep Building, Keep Growing."
+
+— *Dhaval Satasiya*
+
+---
+
+## 🇮🇳 Mission
+
+> Building innovative web solutions and continuously improving my development skills.
+
+🚀 Let's build something amazing together!
+
+---
+
+## 🌟 Support My Work
+
+If you like my work:
+
+* ⭐ Star my repositories
+* 🔄 Share my projects
+* 🤝 Collaborate on exciting ideas
+
+🚀 Thanks for visiting my profile!
