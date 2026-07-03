@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dhaval Satasiya
 
-### 🚀 Full Stack Developer | 🎓 BCA Student | 💻 Web Developer | 🇮🇳 India
+### 🚀 Full Stack Developer | 🎓 MCA Student | 💻 Web Developer | 🇮🇳 India
 
 
 
@@ -10,7 +10,7 @@
 
 ## 🧑‍💼 About Me
 
-* 🎓 BCA Student
+* 🎓 MCA Student
 * 💻 Passionate Full Stack Developer
 * 🌱 Currently Learning Advanced Backend Development & APIs
 * 🚖 Working On: Taxi Booking System (PHP & MySQL)
@@ -58,14 +58,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| 💡 Project             | 📄 Description                                |
-| ---------------------- | --------------------------------------------- |
-| 🌐 Personal Portfolio  | Professional portfolio website with Bootstrap |
-| 🛒 E-Commerce Website  | Responsive shopping website UI                |
-| 👟 Online Shoes Store  | Modern e-commerce landing page                |
-| ☕ Coffee Shop Website  | Responsive coffee shop website design         |
 
 ---
 
@@ -124,22 +116,6 @@ I’m available for:
 
 — *Dhaval Satasiya*
 
----
 
-## 🇮🇳 Mission
-
-> Building innovative web solutions and continuously improving my development skills.
-
-🚀 Let's build something amazing together!
-
----
-
-## 🌟 Support My Work
-
-If you like my work:
-
-* ⭐ Star my repositories
-* 🔄 Share my projects
-* 🤝 Collaborate on exciting ideas
 
 🚀 Thanks for visiting my profile!
